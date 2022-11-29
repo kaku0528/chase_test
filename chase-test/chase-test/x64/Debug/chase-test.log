@@ -1,0 +1,8 @@
+﻿  main.c
+D:\Asae0\OneDrive - 日本大学\デスクトップ\TRPG\100年越しにさよならを言う\chase\chase-test\chase-test\main.c(19,8): warning C4244: '関数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+D:\Asae0\OneDrive - 日本大学\デスクトップ\TRPG\100年越しにさよならを言う\chase\chase-test\chase-test\main.c(37,9): warning C4476: 'printf' : 形式指定子に不明な種類フィールド文字 '\xe3' があります
+D:\Asae0\OneDrive - 日本大学\デスクトップ\TRPG\100年越しにさよならを言う\chase\chase-test\chase-test\main.c(53,8): warning C4244: '関数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+D:\Asae0\OneDrive - 日本大学\デスクトップ\TRPG\100年越しにさよならを言う\chase\chase-test\chase-test\main.c(127,8): warning C4244: '関数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+D:\Asae0\OneDrive - 日本大学\デスクトップ\TRPG\100年越しにさよならを言う\chase\chase-test\chase-test\main.c(143,10): warning C4476: 'printf' : 形式指定子に不明な種類フィールド文字 '\xe3' があります
+D:\Asae0\OneDrive - 日本大学\デスクトップ\TRPG\100年越しにさよならを言う\chase\chase-test\chase-test\main.c(120): warning C4716: 'chase': 値を返さなければいけません
+  chase-test.vcxproj -> D:\Asae0\OneDrive - 日本大学\デスクトップ\TRPG\100年越しにさよならを言う\chase\chase-test\x64\Debug\chase-test.exe
